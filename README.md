@@ -1,2 +1,4 @@
-# book_review_sentiment_analysis
-[CLASS] Simple NLP sentiment analysis for summer AI class
+# Book Review Sentiment Analysis
+
+**Book Review Dataset Provided by Class** The book reviews are originally from Amazon.com.
+
